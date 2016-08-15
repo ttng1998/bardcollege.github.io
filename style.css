@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: purple;
 }
 
 h2{
@@ -56,13 +56,13 @@ img{
 .button {
     background: pink;
     font-size: 110%;
-    color:gray;
+    color:purple;
     padding: 4px;
     border:2px solid white;
 }
 
 .redacted{
-    background-color: pink;
+    background-color: dark pink;
     color:  black;
 }
 
