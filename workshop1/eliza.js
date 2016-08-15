@@ -227,6 +227,10 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x hungry ~*y": [
+    "Let's order food.",
+    "Have you eaten?",
+  ],
 };
 
 var default_responses = [
