@@ -30,7 +30,7 @@ a {
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: white;
     text-decoration: none;
 }
 
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: dark pink;
+    background-color: white;
     color:  black;
 }
 
