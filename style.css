@@ -1,14 +1,14 @@
 body {
-    background-color: rgb(22, 22, 22);
+    background-color: pink;
     color: linen;
     font-size: 150%;
-    line-height: 1.4;
+    line-height: 1.7;
 }
 
 h1{
     margin-top:0px;
     margin-bottom: 10px;
-    border-bottom: 1px solid #AEB7A7;
+    border-bottom: 1px solid #FFFFFF;
 }
 
 h3{
